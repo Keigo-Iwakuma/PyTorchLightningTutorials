@@ -130,6 +130,7 @@ dmypy.json
 
 # Dataset
 MNIST/
+cifar*
 
 # Log
 lightning_logs/
